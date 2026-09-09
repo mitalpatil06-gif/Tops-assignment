@@ -1,0 +1,1 @@
+[{"customer_name": "mital", "items": ["pizza", " burger"], "total_amount": 650.0, "order_status": "delivered"}, {"customer_name": "ram", "items": ["pasta", " french-fries"], "total_amount": 450.0, "order_status": "delivered"}]
